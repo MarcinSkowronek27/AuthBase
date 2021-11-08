@@ -80,6 +80,18 @@ button {
   animation-duration: 1s;
 }
 
+.logout {
+  text-decoration: none;
+  margin: 1rem auto 1.5rem auto;
+  background: #ff5d6c;
+  color: #fff;
+  padding: 0.9rem 0.8rem;
+  border-radius: 4px;
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+  animation-duration: 1s;
+}
+
 .success {
   background: #fff;
   color: #000;
